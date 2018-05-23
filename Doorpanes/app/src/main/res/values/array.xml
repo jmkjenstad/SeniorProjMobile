@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="schedules">
+        <item>McLaury 205</item>
+        <item>McLaury 310</item>
+        <item>Karlsson</item>
+        <item>McGough</item>
+    </string-array>
+</resources>
